@@ -1,8 +1,9 @@
 menu:
   Home: /
-  Archives: archives
+  Archives: /archives
+  Resume: /resume.html
 
-excerpt_link: Continue Reading →
+excerpt_link: read more
 
 mathjax: true
 fancybox: true
@@ -13,14 +14,14 @@ social:
   rss: true
 
 twitter:
-  username: nuklly
+  username: ahdinosaur
 
 github:
-  username: nuklly
+  username: ahdinosaur
 
 addit:
   facebook: false
   twitter: true
   gplus: true
   pinit: false
-  publid: ra-5206464767bea141
+  publid:
